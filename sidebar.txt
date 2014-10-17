@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ons:home|Door43 (ons)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ons|d43-ons repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ons/archive/master.zip|d43-ons.zip]]
+
+**Recent Changes**
+{{changes>ns = ons}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ons|Ethnologue data]]
+
